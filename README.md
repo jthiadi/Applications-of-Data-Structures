@@ -114,6 +114,8 @@ This file showcases typical **linked list operations**: insert at position, remo
 
 This file contrasts the linked-list implementation by solving a similar playlist problem using a **dynamic array**, highlighting different trade-offs in data structure choice.
 
+---
+
 ### 🔹 3️⃣ Sorting
 This folder contains C++ programs that use **sorting algorithms and custom comparison rules** to rank players and sports teams based on performance statistics.
 
@@ -165,8 +167,6 @@ Rank **teams**:
 ```bash
 Team
 ```
-
----
 
 ### 📊 Output
 For each ranking request, the program:
