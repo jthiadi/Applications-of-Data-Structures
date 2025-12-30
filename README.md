@@ -77,8 +77,6 @@ This folder contains two C++ programs that manage **music playlists** using sequ
 
 This file showcases typical **linked list operations**: insert at position, remove at position, moving nodes, and segment-wise reversal.
 
----
-
 ## 2. `2.cpp` — Circular Play Queue (Vector Version)
 
 `2.cpp` implements a similar **playlist / play queue**, but using a `vector<Song>` instead of a linked list:
@@ -184,8 +182,6 @@ Timmy 10.60
 1 11.27
 
 This file demonstrates **custom sorting with complex metrics + pointer-based data management**.
-
----
 
 ## 🏆 `2.cpp` + `14643.h/.cpp` — League Standings Sorting
 
@@ -374,8 +370,6 @@ It supports committing changes, switching commit states, and reconstructing file
 | `commit <total_files>` | Record insertions/deletions for multiple files |
 | `switch <commit_index>` | Change current state to a previous commit |
 | `open <filename>` | Output reconstructed file content |
-
----
 
 ## 🌏 `2.cpp` (Tariff & Trade Policy System)
 ### 📚 Description
