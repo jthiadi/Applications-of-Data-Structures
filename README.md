@@ -1,6 +1,6 @@
 # Applications of Data Structures
 
-This repository contains simple C++ implementations that demonstrate how **fundamental data structures** can be applied to solve real-world and algorithmic problems.
+This repository contains simple C++ implementations that demonstrate how **fundamental data structures** (including Graphs, Linked List, Sorting, Stack, Queue, and Tree) can be applied to solve real-world and algorithmic problems.
 
 The goal of this project is to:
 - Strengthen understanding of **data structure concepts**
